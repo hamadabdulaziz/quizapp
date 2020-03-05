@@ -1,0 +1,123 @@
+<Button
+	android:id="@+id/category1"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_centerHorizontal="true"
+	android:layout_marginTop="140dp"
+	android:textSize="30dp"
+	android:text="History" />
+	
+<Button
+	android:id="@+id/category2"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_centerInParent="true"
+	android:layout_below="@+id/category1"
+	android:layout_marginTop="10dp"
+	android:textSize="30dp"
+	android:text="Football" />
+
+<Button
+	android:id="@+id/category3"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_centerInParent="true"
+	android:layout_below="@+id/category3"
+	android:layout_marginTop="10dp"
+	android:textSize="30dp"
+	android:text="Genral Knowledge" />
+	
+</RelativeLayout
+
+<Button
+	android:id="@+id/category1"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_centerHorizontal="true"
+	android:layout_marginTop="140dp"
+	android:textSize="30dp"
+	android:text="Easy Football" />
+	
+<Button
+	android:id="@+id/category2"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_centerInParent="true"
+	android:layout_below="@+id/category1"
+	android:layout_marginTop="10dp"
+	android:textSize="30dp"
+	android:text="Medium Football" />
+
+<Button
+	android:id="@+id/category3"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_centerInParent="true"
+	android:layout_below="@+id/category3"
+	android:layout_marginTop="10dp"
+	android:textSize="30dp"
+	android:text="Hard Football" />
+	
+</RelativeLayout
+
+<Button
+	android:id="@+id/category1"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_centerHorizontal="true"
+	android:layout_marginTop="140dp"
+	android:textSize="30dp"
+	android:text="Easy History" />
+	
+<Button
+	android:id="@+id/category2"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_centerInParent="true"
+	android:layout_below="@+id/category1"
+	android:layout_marginTop="10dp"
+	android:textSize="30dp"
+	android:text="Medium History" />
+
+<Button
+	android:id="@+id/category3"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_centerInParent="true"
+	android:layout_below="@+id/category3"
+	android:layout_marginTop="10dp"
+	android:textSize="30dp"
+	android:text="Hard History" />
+	
+</RelativeLayout
+
+<Button
+	android:id="@+id/category1"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_centerHorizontal="true"
+	android:layout_marginTop="140dp"
+	android:textSize="30dp"
+	android:text="Easy Knowledge" />
+	
+<Button
+	android:id="@+id/category2"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_centerInParent="true"
+	android:layout_below="@+id/category1"
+	android:layout_marginTop="10dp"
+	android:textSize="30dp"
+	android:text="Medium Knowledge" />
+
+<Button
+	android:id="@+id/category3"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_centerInParent="true"
+	android:layout_below="@+id/category3"
+	android:layout_marginTop="10dp"
+	android:textSize="30dp"
+	android:text="Hard General Knowledge" />
+	
+</RelativeLayout
